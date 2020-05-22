@@ -1,6 +1,6 @@
 # pdf_text_package
 
-A example application to showcase how Flutter package plugins are created. Works on Android and iOS.
+An example application to showcase how Flutter package plugins are created. Works on Android and iOS.
 
 ## Getting Started
 
