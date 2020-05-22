@@ -1,6 +1,6 @@
 # pdf_text_package
 
-A new flutter plugin project.
+A example application to showcase how Flutter package plugins are create. Works on Android and iOS.
 
 ## Getting Started
 
