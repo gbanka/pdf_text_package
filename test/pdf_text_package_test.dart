@@ -18,6 +18,6 @@ void main() {
   });
 
   test('getPlatformVersion', () async {
-    expect(await PdfTextPackage.platformVersion, '42');
+   // expect(await PdfTextPackage.platformVersion, '42');
   });
 }

@@ -1,14 +1,9 @@
 # pdf_text_package
 
-A new flutter plugin project.
+An example application to showcase how Flutter package plugins are created. Works on Android and iOS.
 
 ## Getting Started
 
-This project is a starting point for a Flutter
-[plug-in package](https://flutter.dev/developing-packages/),
-a specialized package that includes platform-specific implementation code for
-Android and/or iOS.
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+Clone this project to your computer.
+Navigate to the example folder.
+Run command on the terminal: flutter run
